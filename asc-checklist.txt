@@ -2,8 +2,13 @@ App Store Connect — 隐私政策与「App 隐私」自检清单（同心医疗
 
 在填写「隐私政策 URL」与「App 隐私」前请逐项核对；须与 index.html 及实际工程行为一致。
 
+【当前对外隐私政策 HTTPS 链接】
+https://dingjunyi.github.io/tongxin-device-assistant-privacy/
+
+（说明：曾从用户 Pages 仓库 Dingjunyi.github.io 移除指向 www.xn--pss816a45tmd.com 的 CNAME，该域 HTTPS 不可用，会导致所有 *.github.io 项目页被错误重定向。若你仍需该自定义域名，请在 DNS 与证书可用后把 CNAME 加回 Dingjunyi.github.io 仓库。）
+
 1. 隐私政策 URL
-   [ ] 使用 GitHub Pages 发布后得到的 HTTPS 链接（例如 https://<用户>.github.io/<仓库名>/ ）
+   [ ] 将 App Store Connect「隐私政策 URL」填为上方链接（或你迁移后的新链接）
    [ ] 无痕窗口打开：无登录墙、无 404、中文显示正常
    [ ] App 内「关于」或设置中的隐私政策链接（若有）与上述 URL 一致
 
